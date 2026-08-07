@@ -1,6 +1,6 @@
 ---
 website: "Portal IDN - Instituto Defesa Nacional"          # Entre as aspas escreve o nome do website
-date: "20/07/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
+date: "07/08/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://www.idn.gov.pt"   # Entre as aspas escreve o domínio do website
 a11y_statement: "https://www.idn.gov.pt/pt/acessibilidade/Documents/accessibility-statement_2026-07-03.html" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
 owner: "Instituto da Defesa Nacional"         # Entre as aspas escrever o nome do owner do website
